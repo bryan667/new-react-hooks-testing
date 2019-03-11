@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import StarShipComponent from './planets';
+import StarShipComponent from './StarShipComponent';
 
 ReactDOM.render(<StarShipComponent />, document.getElementById('root'));
